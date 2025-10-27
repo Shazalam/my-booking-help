@@ -103,9 +103,7 @@ const Navbar = () => {
           <div className="w-3 h-3 bg-green-500 rounded-full absolute top-0 right-0"></div>
         </div>
       </div>
-      
 
-      
       {/* Logo Text */}
       <div className="flex flex-col">
         <span className="text-xl font-bold bg-gradient-to-r from-blue-600 to-blue-400 bg-clip-text text-transparent">
