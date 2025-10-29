@@ -79,7 +79,7 @@ export default function HotelHeroSection() {
         {/* Additional CTA button at the bottom if needed */}
         <div className="text-center mt-12">
           <a
-            href="tel:+1 (844) 954-5425"
+            href="tel:+1 (855) 613-3131"
             className="inline-block bg-gradient-to-r from-amber-400 to-amber-600 hover:from-amber-500 hover:to-amber-700 text-white font-bold py-3 px-8 rounded-full text-lg shadow-lg hover:shadow-xl transition-all transform hover:scale-105"
           >
             Call to Book Now

@@ -33,7 +33,7 @@ const FlightCarousel = () => {
     // Handle calling the airline for a destination
     const handleCallCompany = (destinationName: string, cardId: number) => {
         setClickedCard(cardId);
-        const phoneNumber = "+1 (844) 954-5425"
+        const phoneNumber = "+1 (855) 613-3131"
 
         // Create a temporary link to trigger the phone call
         const telLink = document.createElement('a');

@@ -105,7 +105,7 @@ export const TermsConditions = [
 </ul>
  
       <h4 class="text-md font-semibold text-blue-600 mt-4">Help:</h4>
-      <p class="mb-4 text-gray-700">If you're experiencing any issues, simply reply with the keyword HELP. You can also reach us directly by calling +1 (844) 954-5425 or by sending a message with the word Help.</p>
+      <p class="mb-4 text-gray-700">If you're experiencing any issues, simply reply with the keyword HELP. You can also reach us directly by calling +1 (855) 613-3131 or by sending a message with the word Help.</p>
 
     </blockquote>`
   },
@@ -236,10 +236,10 @@ export const TermsConditions = [
       If you have any questions about these Terms, please contact us as per the mentioned contact information.
     </p>
     <p class="mb-2 text-gray-700">
-      Text or Call Us at: <strong>+1 (844) 954-5425</strong>
+      Text or Call Us at: <strong>+1 (855) 613-3131</strong>
     </p>
     <p class="text-gray-700 text-sm">
-      By texting My Booking Help at +1 (844) 954-5425, you agree to receive Customer Care messages from My Booking Help.
+      By texting My Booking Help at +1 (855) 613-3131, you agree to receive Customer Care messages from My Booking Help.
       Reply STOP to opt out, or HELP for assistance. Message & data rates may apply. Messaging frequency may vary.
       We do not share your mobile information with third parties.
       View our <a href="/privacy-policy" class="text-blue-600 underline">Privacy Policy</a> and 

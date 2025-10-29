@@ -176,7 +176,7 @@ const Car = () => {
 
                 <button
                   onClick={() => {
-                    const phoneNumber = "+1 (844) 954-5425";
+                    const phoneNumber = "+1 (855) 613-3131";
 
                     if (typeof window !== "undefined") {
                       if (window.innerWidth <= 768) {

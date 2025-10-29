@@ -205,7 +205,7 @@ const Navbar = () => {
                     href="tel:+18449545425"
                     className="text-lg text-blue-600 font-semibold hover:text-blue-700 transition-colors"
                   >
-                    +1 (844) 954-5425
+                    +1 (855) 613-3131
                   </a>
                 </span>
               </div>
@@ -281,7 +281,7 @@ const Navbar = () => {
                     className="flex items-center gap-3 p-3 bg-blue-100 rounded-lg text-blue-600 font-medium hover:bg-blue-200 transition-colors"
                   >
                     <FiPhone className="text-blue-500" />
-                    <span>+1 (844) 954-5425</span>
+                    <span>+1 (855) 613-3131</span>
                   </a>
                   
                   <a

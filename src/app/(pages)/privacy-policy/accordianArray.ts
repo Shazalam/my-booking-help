@@ -179,7 +179,7 @@ Mobile Opt in, SMS Consent,  and phone numbers collected for SMS communication p
 </ul>
  
       <h4 class="text-md font-semibold text-blue-600 mt-4">Help:</h4>
-      <p class="mb-4 text-gray-700">If you're experiencing any issues, simply reply with the keyword HELP. You can also reach us directly by calling +1 (844) 954-5425 or by sending a message with the word Help.</p>
+      <p class="mb-4 text-gray-700">If you're experiencing any issues, simply reply with the keyword HELP. You can also reach us directly by calling +1 (855) 613-3131 or by sending a message with the word Help.</p>
 
     </blockquote>`,
   },
@@ -265,7 +265,7 @@ Mobile Opt in, SMS Consent,  and phone numbers collected for SMS communication p
   {
     title: "Contacting Us",
     content: `<blockquote class="bg-gray-50 border-l-4 border-blue-500 p-6 my-6 rounded-r-lg">
-    <p class="mb-4 text-gray-700 font-semibold">Text or Call Us at: +1 (844) 954-5425 </br>
+    <p class="mb-4 text-gray-700 font-semibold">Text or Call Us at: +1 (855) 613-3131 </br>
 By texting [My Booking Help] at [They message us first Phone Number], you agree to receive [Customer Care] messages from [My Booking Help]. Reply STOP to opt-out; Reply HELP for support; Message & data rates may apply; Messaging frequency may vary. Visit  <a href="https://www.mybookinghelp.com/privacy-policy" class="text-blue-600 underline">Privacy Policy</a>  to see our privacy policy and  <a href="https://www.mybookinghelp.com/terms-and-conditions" class="text-blue-600 underline">Terms and Conditions</a> 
  for our Terms of Service.</p>
   </blockquote>`,

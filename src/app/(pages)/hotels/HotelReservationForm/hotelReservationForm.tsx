@@ -76,7 +76,7 @@ export default function HotelReservationForm() {
 
       {/* Call Button */}
       <a
-        href="tel:+1 (844) 954-5425"
+        href="tel:+1 (855) 613-3131"
         className="flex items-center justify-center w-full bg-gradient-to-r from-amber-400 to-amber-600 hover:from-amber-500 hover:to-amber-700 text-white py-4 rounded-lg font-bold text-lg shadow-md hover:shadow-lg transition-all transform hover:scale-[1.01]"
       >
         <Phone className="h-5 w-5 mr-2" />

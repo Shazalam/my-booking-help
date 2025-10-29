@@ -241,7 +241,7 @@ const FlightSearchSection = () => {
                 {/* Search Button */}
                 <div className="mt-4">
                     <a
-                        href="tel:+1 (844) 954-5425"
+                        href="tel:+1 (855) 613-3131"
                         className="w-full bg-gradient-to-r from-blue-600 to-blue-500 hover:from-blue-700 hover:to-blue-600 text-white font-bold py-4 px-6 rounded-lg transition-all duration-300 hover:shadow-lg flex items-center justify-center"
                     >
                         Search Flights

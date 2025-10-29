@@ -122,7 +122,7 @@ const FlightDestinations = () => {
                   onClick={(e) => {
                     if (window.innerWidth > 768) {
                       e.preventDefault();
-                      alert('Please call +1 (844) 954-5425 to book now');
+                      alert('Please call +1 (855) 613-3131 to book now');
                     }
                   }}
                 >

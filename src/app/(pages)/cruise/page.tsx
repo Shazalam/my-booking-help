@@ -67,7 +67,7 @@ const CruiseComponent = () => {
               packages
             </p>
             <a
-              href="tel:+1 (844) 954-5425"
+              href="tel:+1 (855) 613-3131"
               className="inline-block bg-amber-500 hover:bg-amber-600 text-white font-bold py-3 px-8 rounded-full text-lg transition duration-300 transform hover:scale-105"
             >
               Book Cruises Now
@@ -129,7 +129,7 @@ const CruiseComponent = () => {
               </div>
               <div className="text-center">
                 <a
-                  href="tel:+1 (844) 954-5425"
+                  href="tel:+1 (855) 613-3131"
                   className="inline-block bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg transition duration-300 hover:shadow-md"
                 >
                   Book Cruises Now
@@ -249,10 +249,10 @@ const CruiseComponent = () => {
             </p>
             <div className="flex flex-col sm:flex-row justify-center gap-4">
               <a
-                href="tel:+1 (844) 954-5425"
+                href="tel:+1 (855) 613-3131"
                 className="inline-block bg-white text-amber-600 hover:bg-gray-100 font-bold py-3 px-8 rounded-full text-lg transition duration-300"
               >
-                Call Now: +1 (844) 954-5425
+                Call Now: +1 (855) 613-3131
               </a>
             </div>
           </div>

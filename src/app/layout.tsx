@@ -23,9 +23,6 @@ export const metadata: Metadata = {
     default: "My Booking Help",
   },
   description: "Cover your journey in no time with our travel booking service.",
-  icons: {
-    icon: "/logo.png",
-  },
   keywords: ["travel", "flight", "booking", "drive", "hotel", "trip"],
   openGraph: {
     title: "My Booking Help",

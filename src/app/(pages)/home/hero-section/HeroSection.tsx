@@ -105,7 +105,7 @@ const HeroSection = () => {
                 if (window.innerWidth > 768) { // If desktop
                   e.preventDefault();
                   navigator.clipboard.writeText('+18449545425');
-                  alert('Phone number copied to clipboard: +1 (844) 954-5425');
+                  alert('Phone number copied to clipboard: +1 (855) 613-3131');
                 }
               }}
             >
